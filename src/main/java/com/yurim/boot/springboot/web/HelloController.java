@@ -1,4 +1,4 @@
-package com.exe.HelloWorld.Controllers;
+package com.yurim.boot.springboot.web;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
